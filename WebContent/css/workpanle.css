@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#work_add_div{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+#work_download_div{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+#backhome{
+	background-color: rgb(255,228,17);
+	position: absolute;
+	top: 100px;
+	left: 1150px;
+}

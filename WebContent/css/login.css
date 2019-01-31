@@ -1,0 +1,19 @@
+@charset "UTF-8";
+#username, #password{
+	width: 200px;
+}
+#login{
+	width: 253px;
+}
+.formDiv{
+	width: 253px;
+	height: 137px;
+	margin: 0 auto;
+	margin-top: 120px;
+}
+#msg{
+	text-align: center;
+	color: red;
+	width: 253px;
+	height: 34px;
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+#user_manage{
+	width: 800px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+#find,#submit,#return{
+	margin-right: 20px;
+}
+#find{
+	width: 620px;
+}

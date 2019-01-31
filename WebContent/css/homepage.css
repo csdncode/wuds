@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body{
+	position: static;
+}
+#work_info_div{
+	margin: 0;
+	width: 700px;
+	top: 80px;
+	left: 150px;
+	position: absolute;
+
+}
+#user_info_div{
+	margin: 0;
+	width: 300px;
+	top: 80px;
+	left: 900px;
+	position: absolute;
+}
+#ann_div{
+	margin: 0;
+	width: 300px;
+	top: 320px;
+	left: 900px;
+	position: absolute;
+}
+#user_tb{
+	margin: 0;
+}
+#work_tb{
+	margin: 0;
+}
